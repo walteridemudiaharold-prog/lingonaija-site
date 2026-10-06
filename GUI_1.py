@@ -18,7 +18,7 @@ from file_manager import FileManager
 from GUI_2 import (ProgressScreen, QuizScreen, TranslatorScreen, TutorScreen,
                    build_services)
 from models import Lesson
-from validator import regex_validator
+from regex_validator import Validator
 
 DEFAULT_LANGUAGE = "Yoruba"
 DEFAULT_TOPIC = "Greetings"

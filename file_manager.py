@@ -1,4 +1,4 @@
-"""file_manager.py - All file handling for LingoNaija (Member 5)."""
+"""file_manager.py - All file handling for LingoNaija."""
 import csv
 import json
 import logging

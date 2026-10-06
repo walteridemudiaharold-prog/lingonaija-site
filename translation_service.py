@@ -1,4 +1,4 @@
-"""translation_service.py - MyMemory translation API (Member 8)."""
+"""translation_service.py - MyMemory translation API."""
 import requests
 
 from exceptions import TranslationError

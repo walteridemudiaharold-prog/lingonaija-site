@@ -4,7 +4,7 @@ from abc import ABC, abstractmethod
 from datetime import datetime
 
 from exceptions import InvalidAnswerError
-from validator import Validator
+from regex_validator import Validator
 
 
 class Word:

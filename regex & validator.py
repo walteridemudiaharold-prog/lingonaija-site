@@ -1,4 +1,4 @@
-"""validator.py - Regex helpers for LingoNaija (Faith Aduloju)."""
+"""validator.py - Regex helpers for LingoNaija."""
 import re
 import unicodedata
 

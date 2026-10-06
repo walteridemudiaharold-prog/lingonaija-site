@@ -11,3 +11,15 @@ class InvalidAnswerError(LingoNaijaError):
 
 class LessonNotFoundError(LingoNaijaError):
     """Raised when a requested lesson does not exist."""
+
+class DataFileError(LingoNaijaError):
+    """A data file (users.json, results.csv) could not be read or written."""
+
+
+class TranslationError(LingoNaijaError):
+    """The translation API failed or returned an error."""
+
+
+class TutorError(LingoNaijaError):
+    """The Gemini tutor failed or no API key was set."""
+

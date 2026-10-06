@@ -11,7 +11,7 @@ instant feedback and explanations. LingoNaija makes these languages easy to prac
 
 ## Features
 
-- **Lessons:** vocabulary grouped into topics (greetings, food, family) for each language
+- **Lessons:**  vocabulary grouped into six topics (greetings, food, family, numbers, body, animals) for each language
 - **Quizzes:** multiple-choice and translation questions, with scores
 - **Translator:** English to Yoruba, Igbo, or Hausa. It checks a built-in offline dictionary first, then the MyMemory Translation API
 - **AI Tutor:** uses the Google Gemini API to explain wrong answers and answer questions about words and grammar. If the API is unavailable, the app shows an error message and keeps working
@@ -96,7 +96,7 @@ regex_validator.py      Input validation and answer normalisation (regex)
 exceptions.py           Custom exception classes
 lessons.json            Lesson vocabulary data
 requirements.txt        Python dependencies
-tests/test_lingonaija.py  Automated tests (validator, models, files, service errors)
+test/test_lingonaija.py  Automated tests (validator, models, files, service errors)
 ```
 
 ## Architecture

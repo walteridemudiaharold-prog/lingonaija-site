@@ -21,7 +21,7 @@ class GeminiService:
                 URL_TEMPLATE.format(model=model),
                 headers={"x-goog-api-key": key, "Content-Type": "application/json"},
                 json={"contents": [{"parts": [{"text": prompt}]}]},
-                timeout=20,
+                timeout=60,
             )
             response.raise_for_status()
             return response.json()["candidates"][0]["content"]["parts"][0]["text"].strip()

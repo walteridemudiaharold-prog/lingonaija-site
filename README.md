@@ -73,7 +73,7 @@ ignored by Git.
 From the project folder:
 
 ```
-python -m unittest discover -s tests -v
+python -m unittest discover -s test -t . -v
 ```
 
 The tests need no internet, API key, or GUI. They cover username and answer validation,

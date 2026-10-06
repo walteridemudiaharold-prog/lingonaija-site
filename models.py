@@ -1,4 +1,4 @@
-"""models.py - OOP classes for LingoNaija (Member 4)."""
+"""models.py - OOP classes for LingoNaija."""
 import random
 from abc import ABC, abstractmethod
 from datetime import datetime

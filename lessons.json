@@ -1,0 +1,764 @@
+{
+  "yoruba": {
+    "greetings": [
+      {
+        "english": "Hello",
+        "native": "Báwo ni"
+      },
+      {
+        "english": "Good morning",
+        "native": "Ẹ káàárọ̀"
+      },
+      {
+        "english": "Good afternoon",
+        "native": "Ẹ káàsán"
+      },
+      {
+        "english": "Good evening",
+        "native": "Ẹ káalẹ́"
+      },
+      {
+        "english": "Good night",
+        "native": "Ó dàárọ̀"
+      },
+      {
+        "english": "Thank you",
+        "native": "O ṣeun"
+      },
+      {
+        "english": "Welcome",
+        "native": "Ẹ káàbọ̀"
+      },
+      {
+        "english": "Goodbye",
+        "native": "Ó dàbọ̀"
+      },
+      {
+        "english": "Please",
+        "native": "Jọ̀ọ́"
+      },
+      {
+        "english": "Sorry",
+        "native": "Má bínú"
+      }
+    ],
+    "food": [
+      {
+        "english": "Food",
+        "native": "Oúnjẹ"
+      },
+      {
+        "english": "Water",
+        "native": "Omi"
+      },
+      {
+        "english": "Rice",
+        "native": "Ìrẹsì"
+      },
+      {
+        "english": "Beans",
+        "native": "Ewà"
+      },
+      {
+        "english": "Yam",
+        "native": "Iṣu"
+      },
+      {
+        "english": "Bread",
+        "native": "Búrẹ́dì"
+      },
+      {
+        "english": "Meat",
+        "native": "Ẹran"
+      },
+      {
+        "english": "Egg",
+        "native": "Ẹyin"
+      },
+      {
+        "english": "Salt",
+        "native": "Iyọ̀"
+      },
+      {
+        "english": "Soup",
+        "native": "Ọbẹ̀"
+      }
+    ],
+    "family": [
+      {
+        "english": "Family",
+        "native": "Ìdílé"
+      },
+      {
+        "english": "Mother",
+        "native": "Ìyá"
+      },
+      {
+        "english": "Father",
+        "native": "Bàbá"
+      },
+      {
+        "english": "Child",
+        "native": "Ọmọ"
+      },
+      {
+        "english": "Husband",
+        "native": "Ọkọ"
+      },
+      {
+        "english": "Wife",
+        "native": "Ìyàwó"
+      },
+      {
+        "english": "Friend",
+        "native": "Ọ̀rẹ́"
+      },
+      {
+        "english": "Grandmother",
+        "native": "Ìyá àgbà"
+      },
+      {
+        "english": "Grandfather",
+        "native": "Bàbá àgbà"
+      },
+      {
+        "english": "Younger sibling",
+        "native": "Àbúrò"
+      }
+    ],
+    "numbers": [
+      {
+        "english": "One",
+        "native": "Ọ̀kan"
+      },
+      {
+        "english": "Two",
+        "native": "Èjì"
+      },
+      {
+        "english": "Three",
+        "native": "Ẹ̀ta"
+      },
+      {
+        "english": "Four",
+        "native": "Ẹ̀rin"
+      },
+      {
+        "english": "Five",
+        "native": "Àrún"
+      },
+      {
+        "english": "Six",
+        "native": "Ẹ̀fà"
+      },
+      {
+        "english": "Seven",
+        "native": "Èje"
+      },
+      {
+        "english": "Eight",
+        "native": "Ẹ̀jọ"
+      },
+      {
+        "english": "Nine",
+        "native": "Ẹ̀sán"
+      },
+      {
+        "english": "Ten",
+        "native": "Ẹ̀wá"
+      }
+    ],
+    "body": [
+      {
+        "english": "Head",
+        "native": "Orí"
+      },
+      {
+        "english": "Eye",
+        "native": "Ojú"
+      },
+      {
+        "english": "Ear",
+        "native": "Etí"
+      },
+      {
+        "english": "Mouth",
+        "native": "Ẹnu"
+      },
+      {
+        "english": "Nose",
+        "native": "Imú"
+      },
+      {
+        "english": "Hand",
+        "native": "Ọwọ́"
+      },
+      {
+        "english": "Leg",
+        "native": "Ẹsẹ̀"
+      },
+      {
+        "english": "Stomach",
+        "native": "Ikùn"
+      },
+      {
+        "english": "Hair",
+        "native": "Irun"
+      },
+      {
+        "english": "Tooth",
+        "native": "Ehín"
+      }
+    ],
+    "animals": [
+      {
+        "english": "Dog",
+        "native": "Ajá"
+      },
+      {
+        "english": "Cat",
+        "native": "Ológbò"
+      },
+      {
+        "english": "Goat",
+        "native": "Ewúrẹ́"
+      },
+      {
+        "english": "Chicken",
+        "native": "Adìẹ"
+      },
+      {
+        "english": "Cow",
+        "native": "Màlúù"
+      },
+      {
+        "english": "Fish",
+        "native": "Ẹja"
+      },
+      {
+        "english": "Bird",
+        "native": "Ẹyẹ"
+      },
+      {
+        "english": "Horse",
+        "native": "Ẹṣin"
+      },
+      {
+        "english": "Snake",
+        "native": "Ejò"
+      },
+      {
+        "english": "Monkey",
+        "native": "Ọbọ"
+      }
+    ]
+  },
+  "igbo": {
+    "greetings": [
+      {
+        "english": "Hello",
+        "native": "Ndewo"
+      },
+      {
+        "english": "Good morning",
+        "native": "Ụtụtụ ọma"
+      },
+      {
+        "english": "Good afternoon",
+        "native": "Ehihie ọma"
+      },
+      {
+        "english": "Good evening",
+        "native": "Mgbede ọma"
+      },
+      {
+        "english": "Good night",
+        "native": "Ka chi fo"
+      },
+      {
+        "english": "Thank you",
+        "native": "Daalụ"
+      },
+      {
+        "english": "Welcome",
+        "native": "Nnọọ"
+      },
+      {
+        "english": "Please",
+        "native": "Biko"
+      },
+      {
+        "english": "Sorry",
+        "native": "Ndo"
+      },
+      {
+        "english": "See you later",
+        "native": "Ka emesịa"
+      }
+    ],
+    "food": [
+      {
+        "english": "Food",
+        "native": "Nri"
+      },
+      {
+        "english": "Water",
+        "native": "Mmiri"
+      },
+      {
+        "english": "Rice",
+        "native": "Osikapa"
+      },
+      {
+        "english": "Beans",
+        "native": "Agwa"
+      },
+      {
+        "english": "Yam",
+        "native": "Ji"
+      },
+      {
+        "english": "Bread",
+        "native": "Achịcha"
+      },
+      {
+        "english": "Meat",
+        "native": "Anụ"
+      },
+      {
+        "english": "Egg",
+        "native": "Akwa"
+      },
+      {
+        "english": "Salt",
+        "native": "Nnu"
+      },
+      {
+        "english": "Soup",
+        "native": "Ofe"
+      }
+    ],
+    "family": [
+      {
+        "english": "Family",
+        "native": "Ezinụlọ"
+      },
+      {
+        "english": "Mother",
+        "native": "Nne"
+      },
+      {
+        "english": "Father",
+        "native": "Nna"
+      },
+      {
+        "english": "Child",
+        "native": "Nwa"
+      },
+      {
+        "english": "Husband",
+        "native": "Di"
+      },
+      {
+        "english": "Wife",
+        "native": "Nwunye"
+      },
+      {
+        "english": "Friend",
+        "native": "Enyi"
+      },
+      {
+        "english": "Grandmother",
+        "native": "Nne ochie"
+      },
+      {
+        "english": "Grandfather",
+        "native": "Nna ochie"
+      },
+      {
+        "english": "Sibling",
+        "native": "Nwanne"
+      }
+    ],
+    "numbers": [
+      {
+        "english": "One",
+        "native": "Otu"
+      },
+      {
+        "english": "Two",
+        "native": "Abụọ"
+      },
+      {
+        "english": "Three",
+        "native": "Atọ"
+      },
+      {
+        "english": "Four",
+        "native": "Anọ"
+      },
+      {
+        "english": "Five",
+        "native": "Ise"
+      },
+      {
+        "english": "Six",
+        "native": "Isii"
+      },
+      {
+        "english": "Seven",
+        "native": "Asaa"
+      },
+      {
+        "english": "Eight",
+        "native": "Asatọ"
+      },
+      {
+        "english": "Nine",
+        "native": "Itoolu"
+      },
+      {
+        "english": "Ten",
+        "native": "Iri"
+      }
+    ],
+    "body": [
+      {
+        "english": "Head",
+        "native": "Isi"
+      },
+      {
+        "english": "Eye",
+        "native": "Anya"
+      },
+      {
+        "english": "Ear",
+        "native": "Ntị"
+      },
+      {
+        "english": "Mouth",
+        "native": "Ọnụ"
+      },
+      {
+        "english": "Nose",
+        "native": "Imi"
+      },
+      {
+        "english": "Hand",
+        "native": "Aka"
+      },
+      {
+        "english": "Leg",
+        "native": "Ụkwụ"
+      },
+      {
+        "english": "Stomach",
+        "native": "Afọ"
+      },
+      {
+        "english": "Hair",
+        "native": "Ntutu"
+      },
+      {
+        "english": "Tooth",
+        "native": "Eze"
+      }
+    ],
+    "animals": [
+      {
+        "english": "Dog",
+        "native": "Nkịta"
+      },
+      {
+        "english": "Cat",
+        "native": "Nwamba"
+      },
+      {
+        "english": "Goat",
+        "native": "Ewu"
+      },
+      {
+        "english": "Chicken",
+        "native": "Ọkụkọ"
+      },
+      {
+        "english": "Cow",
+        "native": "Ehi"
+      },
+      {
+        "english": "Fish",
+        "native": "Azụ"
+      },
+      {
+        "english": "Bird",
+        "native": "Nnụnụ"
+      },
+      {
+        "english": "Horse",
+        "native": "Ịnyịnya"
+      },
+      {
+        "english": "Snake",
+        "native": "Agwọ"
+      },
+      {
+        "english": "Monkey",
+        "native": "Enwe"
+      }
+    ]
+  },
+  "hausa": {
+    "greetings": [
+      {
+        "english": "Hello",
+        "native": "Sannu"
+      },
+      {
+        "english": "Good morning",
+        "native": "Ina kwana"
+      },
+      {
+        "english": "Good afternoon",
+        "native": "Ina wuni"
+      },
+      {
+        "english": "Good evening",
+        "native": "Barka da yamma"
+      },
+      {
+        "english": "Good night",
+        "native": "Sai da safe"
+      },
+      {
+        "english": "Thank you",
+        "native": "Na gode"
+      },
+      {
+        "english": "Welcome",
+        "native": "Barka da zuwa"
+      },
+      {
+        "english": "Please",
+        "native": "Don Allah"
+      },
+      {
+        "english": "Sorry",
+        "native": "Yi haƙuri"
+      },
+      {
+        "english": "See you later",
+        "native": "Sai an jima"
+      }
+    ],
+    "food": [
+      {
+        "english": "Food",
+        "native": "Abinci"
+      },
+      {
+        "english": "Water",
+        "native": "Ruwa"
+      },
+      {
+        "english": "Rice",
+        "native": "Shinkafa"
+      },
+      {
+        "english": "Beans",
+        "native": "Wake"
+      },
+      {
+        "english": "Yam",
+        "native": "Doya"
+      },
+      {
+        "english": "Bread",
+        "native": "Burodi"
+      },
+      {
+        "english": "Meat",
+        "native": "Nama"
+      },
+      {
+        "english": "Egg",
+        "native": "Kwai"
+      },
+      {
+        "english": "Salt",
+        "native": "Gishiri"
+      },
+      {
+        "english": "Soup",
+        "native": "Miya"
+      }
+    ],
+    "family": [
+      {
+        "english": "Family",
+        "native": "Iyali"
+      },
+      {
+        "english": "Mother",
+        "native": "Uwa"
+      },
+      {
+        "english": "Father",
+        "native": "Uba"
+      },
+      {
+        "english": "Child",
+        "native": "Ɗa"
+      },
+      {
+        "english": "Husband",
+        "native": "Miji"
+      },
+      {
+        "english": "Wife",
+        "native": "Mata"
+      },
+      {
+        "english": "Friend",
+        "native": "Aboki"
+      },
+      {
+        "english": "Grandparent",
+        "native": "Kaka"
+      },
+      {
+        "english": "Brother",
+        "native": "Ɗan'uwa"
+      },
+      {
+        "english": "Sister",
+        "native": "Ƴar'uwa"
+      }
+    ],
+    "numbers": [
+      {
+        "english": "One",
+        "native": "Ɗaya"
+      },
+      {
+        "english": "Two",
+        "native": "Biyu"
+      },
+      {
+        "english": "Three",
+        "native": "Uku"
+      },
+      {
+        "english": "Four",
+        "native": "Huɗu"
+      },
+      {
+        "english": "Five",
+        "native": "Biyar"
+      },
+      {
+        "english": "Six",
+        "native": "Shida"
+      },
+      {
+        "english": "Seven",
+        "native": "Bakwai"
+      },
+      {
+        "english": "Eight",
+        "native": "Takwas"
+      },
+      {
+        "english": "Nine",
+        "native": "Tara"
+      },
+      {
+        "english": "Ten",
+        "native": "Goma"
+      }
+    ],
+    "body": [
+      {
+        "english": "Head",
+        "native": "Kai"
+      },
+      {
+        "english": "Eye",
+        "native": "Ido"
+      },
+      {
+        "english": "Ear",
+        "native": "Kunne"
+      },
+      {
+        "english": "Mouth",
+        "native": "Baki"
+      },
+      {
+        "english": "Nose",
+        "native": "Hanci"
+      },
+      {
+        "english": "Hand",
+        "native": "Hannu"
+      },
+      {
+        "english": "Leg",
+        "native": "Ƙafa"
+      },
+      {
+        "english": "Stomach",
+        "native": "Ciki"
+      },
+      {
+        "english": "Hair",
+        "native": "Gashi"
+      },
+      {
+        "english": "Tooth",
+        "native": "Haƙori"
+      }
+    ],
+    "animals": [
+      {
+        "english": "Dog",
+        "native": "Kare"
+      },
+      {
+        "english": "Cat",
+        "native": "Kyanwa"
+      },
+      {
+        "english": "Goat",
+        "native": "Akuya"
+      },
+      {
+        "english": "Chicken",
+        "native": "Kaza"
+      },
+      {
+        "english": "Cow",
+        "native": "Saniya"
+      },
+      {
+        "english": "Fish",
+        "native": "Kifi"
+      },
+      {
+        "english": "Bird",
+        "native": "Tsuntsu"
+      },
+      {
+        "english": "Horse",
+        "native": "Doki"
+      },
+      {
+        "english": "Snake",
+        "native": "Maciji"
+      },
+      {
+        "english": "Monkey",
+        "native": "Biri"
+      }
+    ]
+  }
+}

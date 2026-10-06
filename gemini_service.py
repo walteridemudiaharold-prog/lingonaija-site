@@ -1,12 +1,4 @@
-"""gemini_service.py - Gemini AI tutor (Member 8).
-
-Set your key first (Command Prompt):  set GEMINI_API_KEY=your_key
-                      (PowerShell):      $env:GEMINI_API_KEY="your_key"
-                      (Mac/Linux):       export GEMINI_API_KEY=your_key
-
-The default model is gemini-3.5-flash. If Google retires it, switch without
-editing code by setting GEMINI_MODEL (for example gemini-3.1-flash-lite).
-Current names: https://ai.google.dev/gemini-api/docs/deprecations
+"""gemini_service.py - Gemini AI tutor.
 """
 import os
 

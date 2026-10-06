@@ -31,7 +31,7 @@ from file_manager import FileManager
 from gemini_service import GeminiService
 from models import MultipleChoiceQuestion, Question, TranslationQuestion
 from translation_service import TranslationService
-from validator import Validator
+from regex_validator import Validator
 
 logger = logging.getLogger(__name__)
 
